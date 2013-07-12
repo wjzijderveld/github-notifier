@@ -1,0 +1,4 @@
+/vendor/
+/app/config.yml
+/app/notifier.db
+/logs/*

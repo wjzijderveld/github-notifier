@@ -1,0 +1,7 @@
+database:
+    pdo_driver: sqlite # Only one supported for now
+    db_path: app/notifier.db
+
+email:
+    name: ~
+    email: ~
